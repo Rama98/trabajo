@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1496158236 source:c:\users\alumno\desktop\code blocks\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496762159 source:c:\users\alumno\desktop\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1496762260 source:f:\tp final lab 1\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
